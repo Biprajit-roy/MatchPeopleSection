@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MatchPeopleSection</string>
+    <string name="holder_string">Lorem Ipsum</string>
 </resources>
